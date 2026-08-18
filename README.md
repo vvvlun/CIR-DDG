@@ -79,7 +79,6 @@ If you use CIR-DDG, please cite:
 ```bibtex
 @article{yu2026cirddg,
   title   = {CIR-DDG: backbone-agnostic residual correction of antibody--antigen affinity changes with explicit cross-chain geometry},
-  author  = {Yu, Weilun and Chen, Xi},
   journal = {manuscript under review},
   year    = {2026}
 }
