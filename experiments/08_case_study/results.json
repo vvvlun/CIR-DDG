@@ -1,0 +1,13 @@
+{
+  "complex": "3HFM_HL_Y",
+  "pdb": "3HFM",
+  "system": "HyHEL-10 Fab + Hen Egg-White Lysozyme",
+  "n_mutations": 96,
+  "n_interface": 96,
+  "rho_base": 0.27311793705918264,
+  "rho_cir": 0.3740825412240725,
+  "delta_rho": 0.10096460416488984,
+  "mae_base": 1.5633020401000977,
+  "mae_cir": 1.3252111673355103,
+  "correction_direction_accuracy": 0.5185185185185185
+}
